@@ -4,6 +4,9 @@
 .catagories img{
     width: 100px;
 }
+.top-gap{
+    padding-top: 50px;
+}
 .intouch-bg, .slide-bg .carousel-item{
     background-color: #fceae8;
     border-radius: 7px;
